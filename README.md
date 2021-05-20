@@ -1,10 +1,11 @@
-### Hi there 👋
+![118371339-782ab800-b5ac-11eb-9e04-5ff7991a9068](https://user-images.githubusercontent.com/76213289/118945178-8171a700-b955-11eb-8a07-bb793a2f6ffd.png)
+### Hello!
 
 <!--
 **sharkiiiii/sharkiiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+CEO of "Sharks"
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
